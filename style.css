@@ -1,0 +1,27 @@
+.text-center {
+  text-align: center;
+  justify-content: center;
+}
+.container {
+  text-align: center;
+  background-image: url("cal.jfif");
+}
+
+button {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  font-size: 2rem;
+  background-color: #A0C3D2;
+}
+
+h1 {
+  margin-bottom: 5px;
+  font-size: 4rem;
+}
+.input {
+  padding: 10px 100px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 1rem;
+}
